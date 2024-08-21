@@ -9,19 +9,19 @@ The Job Portal application consists of several microservices, each responsible f
 ### Microservices
 
 1. **Authentication Service**: Handles user authentication and JWT-based authorization.
-   - [Repository](https://github.com/abhinavmishra-0302/Auth-Service.git)
+   - [Auth-Service](https://github.com/abhinavmishra-0302/Auth-Service.git)
 
 2. **User Profile Service**: Manages user profiles for job seekers and employers.
-   - [Repository](https://github.com/abhinavmishra-0302/User-Profile-Service.git)
+   - [User-Profile-Service](https://github.com/abhinavmishra-0302/User-Profile-Service.git)
 
 3. **Job Service**: Manages job listings and related operations.
-   - [Repository](https://github.com/abhinavmishra-0302/Job-Service.git)
+   - [Job-Service](https://github.com/abhinavmishra-0302/Job-Service.git)
 
 4. **Application Service**: Manages job applications and their statuses.
-   - [Repository](https://github.com/abhinavmishra-0302/Application-Service.git)
+   - [Application-Service](https://github.com/abhinavmishra-0302/Application-Service.git)
 
 5. **Notification Service**: Handles notifications for job seekers and employers.
-   - [Repository](https://github.com/abhinavmishra-0302/Notification-service.git)
+   - [Notification-Service](https://github.com/abhinavmishra-0302/Notification-service.git)
 
 ## Tech Stack
 
